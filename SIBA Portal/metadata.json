@@ -1,0 +1,6 @@
+{
+  "name": "Sukkur IBA Student Portal",
+  "description": "An all-in-one AI-powered academic companion and study assistant designed to help students track attendance, calculate GPAs, and learn smarter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
