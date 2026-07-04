@@ -41,7 +41,7 @@ Whether you're preparing for exams, organizing assignments, or asking AI for hel
 - 📊 Productivity Dashboard
 - 🌙 Dark & Light Mode
 - 🔒 Secure Local Storage
-- ☁ Cloud Synchronization *(optional)*
+- ☁ Cloud Synchronization
 - 🔍 Intelligent Search
 - ⚡ Fast & Modern UI
 - 📱 Material Design 3
